@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <h1 align="center">Hi! 👋, I 'm IsmaDevs</h1>
-<h3 align="center">Un programador de Argentina que realiza aplicaciones de escritorio. 
-Por el momento sigue estudiando como programador y es en la Universidad Tecnológica Nacional - Facultad Regional Tucumán (UTN)</h3>
+<h3 align="center">A programmer from Argentina who makes desktop applications. 
+At the moment he is still studying as a programmer at the Universidad Tecnológica Nacional - Facultad Regional Tucumán (UTN).</h3>
 </div>
 
 ---
