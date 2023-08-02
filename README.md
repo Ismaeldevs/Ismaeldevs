@@ -31,4 +31,4 @@ At the moment he is still studying as a programmer at the Universidad Tecnológi
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IsmaDevs&theme=soft-green&hide_border=true)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IsmaDevs&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaDevs&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
