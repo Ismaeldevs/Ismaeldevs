@@ -1,20 +1,19 @@
 <div id="header" align="center">
 <h1 align="center">Hi! 👋, I 'm IsmaDevs</h1>
-<h3 align="center">A programmer from Argentina who makes desktop applications. 
-At the moment he is still studying as a programmer at the Universidad Tecnológica Nacional - Facultad Regional Tucumán (UTN).</h3>
+<h3 align="center">Argentine programmer who creates web interfaces for users. Currently studying programming at the Universidad Tecnológica Nacional - Facultad Regional Tucumán (UTN).</h3>
 </div>
 
 ---
 
 ### 👨‍💻 About Me :
 
-- ⚙️ I am a desktop application developer
+- ⚙️ I am a web interface developer (Front-End).
 
 - 📚 Currently studying at UTN
 
-- 📫 Contact me at  **chavezpedrito04@gmail.com** or Discord **ismaeldev_**
+- 📫 Contact me at  **chavezpedrito04@gmail.com**
 
-- 🧩 I’m currently learning **React.js** & **MySQL**
+- 🧩 I’m currently learning **MySQL**
 
 
 <div align="left">
