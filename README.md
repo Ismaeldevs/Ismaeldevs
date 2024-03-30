@@ -24,7 +24,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.JS" alt="React.js" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vitejs" alt="Vitejs" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SqlServer" alt="SqlServer" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="SqlServer" alt="SqlServer" width="40" height="40"/>&nbsp;
       </div>
 </div>
 
