@@ -1,9 +1,9 @@
 <div id="header" align="center">
-<h1 align="center">Hi! 👋, I 'm Ismael</h1>
+<h1 align="center">Hi 👋, I'm Ismael</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 </div>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismaeldevs&label=Profile%20views&color=0e75b6&style=flat" alt="ismaeldevs" /> </p>
 
 ### 👨‍💻 About Me :
 
