@@ -1,19 +1,17 @@
 <div id="header" align="center">
 <h1 align="center">Hi 👋, I'm Ismael</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate developer from Argentina</h3>
 </div>
 
 ---
 
 ### 👨‍💻 About Me :
 
-- ⚙️ I am a web interface developer (Front-End).
-
 - 📚 Currently studying at UTN
 
 - 📫 Contact me at  **PedroIsmaelChavez@alu.frt.utn.edu.ar**
 
-- 🧩 I’m currently learning **MySQL** and **Back-End**
+- 🧩 I’m currently learning **CyberSecurity**
 
 
 <div align="left">
