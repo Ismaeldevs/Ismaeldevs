@@ -11,7 +11,7 @@
 
 - 📚 Currently studying at UTN
 
-- 📫 Contact me at  **chavezpedrito04@gmail.com**
+- 📫 Contact me at  **PedroIsmaelChavez@alu.frt.utn.edu.ar**
 
 - 🧩 I’m currently learning **MySQL** and **Back-End**
 
