@@ -9,7 +9,7 @@
 
 - 📚 Currently studying at UTN
 
-- 📫 Contact me at  **PedroIsmaelChavez@alu.frt.utn.edu.ar**
+- 📫 Contact me at  **ismaeldevs@gmail.com**
 
 - 🧩 I’m currently learning **CyberSecurity**
 
