@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">• ☕ Working remotely<br><br>• 📫 Contact me at <strong>ismaeldevs@gmail.com</strong><br><br>• 🧩 I’m currently learning <strong>CyberSecurity</strong></p>
+<p align="left">• ☕ Working remotely<br><br>• 🧩 I’m currently learning <strong>CyberSecurity</strong><br><br>• 📫 Contact me at <strong>ismaeldevs@gmail.com</strong></p>
 
 ###
 
