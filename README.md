@@ -64,9 +64,7 @@
 </div>
 
 ###
-
 <h3 align="left">🔥   My Stats :</h3>
-
 ###
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismaeldevs&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismaeldevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
