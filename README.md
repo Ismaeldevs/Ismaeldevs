@@ -1,4 +1,4 @@
-<h2 align="center">Hello, I'm Ismael an Argentinean software developer. 👋</h2>
+<h1 align="center">Hello, I'm Ismael an Argentinean software developer. 👋</h1>
 
 ###
 
