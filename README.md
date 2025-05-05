@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Graduate as a university technician in programming at [UTN-FRT](https://frt.utn.edu.ar/).<br>💻 Currently working as a freelancer<br>📚 Studying Cybersecurity at [EndPoint](https://www.instagram.com/endpoint_ciberseguridad/)<br>🌐 Learn more about me on my [website](https://www.ismaeldev.com/)</p>
+🎓 Graduate as a university technician in programming at [UTN-FRT](https://frt.utn.edu.ar/).<br>💻 Currently working as a freelancer<br>📚 Studying Cybersecurity at [EndPoint](https://www.instagram.com/endpoint_ciberseguridad/)<br>🌐 Learn more about me on my [website](https://www.ismaeldev.com/)</p>
 
 ###
 
