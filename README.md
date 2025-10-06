@@ -167,7 +167,7 @@ class Pentester:
 
 [![Website](https://img.shields.io/badge/Website-ismaeldev.com-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.ismaeldev.com/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismaeldevs@gmail.com)
-[![Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ismanchz)
+[![Twitter](https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ismanchz)
 
 </div>
 
