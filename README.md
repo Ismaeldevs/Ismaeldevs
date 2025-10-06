@@ -27,15 +27,12 @@
 ```bash
 ┌──(ismael㉿kali)-[~/whoami]
 └─$ cat about.txt
-
-
-🎓 Graduate as a **University Technician in Programming** at [UTN-FRT](https://frt.utn.edu.ar/)<br>
-💼 Currently working as a **Freelance Developer**<br>
-🔐 Studying **Cybersecurity & Penetration Testing** at [EndPoint](https://www.instagram.com/endpoint_ciberseguridad/)<br>
-🐧 Living in **Kali Linux** and breaking things (ethically)<br>
-🎯 Focused on **Web Application Security** & **Network Penetration Testing**<br>
-🌐 Check out my work at [ismaeldev.com](https://www.ismaeldev.com/)
 ```
+🎓 Graduate as a **University Technician in Programming** at [UTN-FRT](https://frt.utn.edu.ar/)<br>
+💼 Currently working as a **Freelance**<br>
+🔐 Received **Cybersecurity & Penetration Testing training** at [EndPoint](https://www.instagram.com/endpoint_ciberseguridad/)<br>
+🐧 Living in **Kali Linux** and breaking things (ethically)<br>
+🌐 Check out my work at [ismaeldev.com](https://www.ismaeldev.com/)
 ###
 
 ## 🛡️ Security Arsenal
@@ -169,8 +166,8 @@ class Pentester:
 **Let's collaborate on security projects or just talk about hacking!**
 
 [![Website](https://img.shields.io/badge/Website-ismaeldev.com-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.ismaeldev.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismaeldevs@gmail.com)
+[![Twitter](https://img.shields.io/badge/twitter/follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ismanchz)
 
 </div>
 
