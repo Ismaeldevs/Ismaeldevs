@@ -10,9 +10,6 @@
   <a href="https://www.linkedin.com/in/tu-perfil">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/endpoint_ciberseguridad/">
-    <img src="https://img.shields.io/badge/EndPoint-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="EndPoint" />
-  </a>
 </p>
 
 ###
@@ -30,7 +27,7 @@
 ```bash
 ┌──(ismael㉿kali)-[~/whoami]
 └─$ cat about.txt
-```
+
 
 🎓 Graduate as a **University Technician in Programming** at [UTN-FRT](https://frt.utn.edu.ar/)<br>
 💼 Currently working as a **Freelance Developer**<br>
@@ -38,7 +35,7 @@
 🐧 Living in **Kali Linux** and breaking things (ethically)<br>
 🎯 Focused on **Web Application Security** & **Network Penetration Testing**<br>
 🌐 Check out my work at [ismaeldev.com](https://www.ismaeldev.com/)
-
+```
 ###
 
 ## 🛡️ Security Arsenal
@@ -129,7 +126,7 @@ class Pentester:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ismaeldevs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Ismaeldevs&locale=en&mode=daily&theme=radical&hide_border=true&background=0d1117" height="150" alt="streak graph" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ismaeldevs&theme=radical" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
@@ -142,8 +139,9 @@ class Pentester:
 
 ```bash
 [✓] University Technician in Programming - UTN-FRT
-[→] Cybersecurity Course - EndPoint
-[ ] eJPT (eLearnSecurity Junior Penetration Tester)
+[✓] Cybersecurity Course - EndPoint
+[✓] Google Cybersecurity - Google
+[→] eJPT (eLearnSecurity Junior Penetration Tester)
 [ ] OSCP (Offensive Security Certified Professional)
 [ ] CEH (Certified Ethical Hacker)
 ```
