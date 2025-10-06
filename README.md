@@ -173,12 +173,6 @@ class Pentester:
 
 ###
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ismaeldevs&color=red&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
-</p>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ismaeldevs/Ismaeldevs/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ismaeldevs/Ismaeldevs/output/github-snake.svg" />
