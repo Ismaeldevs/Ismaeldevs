@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Ismael</h1>
-<h3 align="center"> Pentester Junior | Ethical Hacker | Software Developer</h3>
+<h3 align="center"> Pentester | Ethical Hacker</h3>
 
 ###
 
